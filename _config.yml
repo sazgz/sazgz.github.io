@@ -1,1 +1,19 @@
-theme: jekyll-theme-cayman
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Space Apps Zaragoza
+description: |
+  19 y 20 de Octubre
+owner: Space Apps Zaragoza
+first_published: 2019
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+social:
+  twitter: https://twitter.com/spaceappszgz
+  github: https://github.com/sazgz
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
